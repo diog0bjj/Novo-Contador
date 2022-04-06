@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Novo-Contador/static/css/main.e6c13ad2.css",
+    "main.js": "/Novo-Contador/static/js/main.19b46d59.js",
+    "static/js/787.bd3d6032.chunk.js": "/Novo-Contador/static/js/787.bd3d6032.chunk.js",
+    "index.html": "/Novo-Contador/index.html",
+    "main.e6c13ad2.css.map": "/Novo-Contador/static/css/main.e6c13ad2.css.map",
+    "main.19b46d59.js.map": "/Novo-Contador/static/js/main.19b46d59.js.map",
+    "787.bd3d6032.chunk.js.map": "/Novo-Contador/static/js/787.bd3d6032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19b46d59.js"
+  ]
+}
